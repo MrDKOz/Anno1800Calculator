@@ -20866,7 +20866,7 @@ params={
             "locaText": {
                 "brazilian": "Jornaleros",
                 "chinese": "临时工",
-                "english": "Jornaleros",
+                "english": "Jalapenos",
                 "french": "Jornaleros",
                 "german": "Jornaleros",
                 "italian": "Jornaleros",
