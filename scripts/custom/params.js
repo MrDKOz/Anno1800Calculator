@@ -21024,7 +21024,7 @@ params={
             "locaText": {
                 "brazilian": "Obreros",
                 "chinese": "劳工",
-                "english": "Obreros",
+                "english": "Oreos",
                 "french": "Obreros",
                 "german": "Obreros",
                 "italian": "Obreros",
